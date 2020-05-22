@@ -1,0 +1,44 @@
+.slider .btn {
+    margin-top: 20px;
+  }
+  
+  .section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+  }
+  
+  .section-follow .fa-4x {
+    margin: 5px 10px;
+  }
+  
+  .section-contact h5 {
+    margin-bottom: 30px;
+  }
+
+  .myButton {
+    background-color:#f79320;
+    -webkit-border-radius:28px;
+    -moz-border-radius:28px;
+    border-radius:28px;
+    border:1px solid #f79320;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #f79320;
+  }
+  .myButton:hover {
+    background-color:#f79320;
+  }
+  .myButton:active {
+    position:relative;
+    top:1px;
+  }
+
+
+  
